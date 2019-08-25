@@ -1,7 +1,7 @@
 # SkySight
 - A desktop gallery that retrieves the Astronomical Picture of the Day (APOD) -- and its decrsiptions -- of random dates from NASA's API
 - Big thanks to brendnav
-
+- ![](Skygif.gif)
 
 # Github Packages
 1. Create a virtual environment (recommended)
