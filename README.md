@@ -1,5 +1,5 @@
 # SkySight
-- ![](Skygif.gif)
+  ![](Skygif.gif)
 
 - A desktop gallery that retrieves the Astronomical Picture of the Day (APOD) -- and its decrsiptions -- of random dates from NASA's API
 - Big thanks to brendnav
